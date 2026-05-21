@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Planned Summer 2026 Lake County Phone-First Game Jam — virtual-first, beginner-friendly game making for Northwest Indiana. No laptop required.">
+  <title>gunnchOS3k MLV Game Jam — Make a Game From Where You Are</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#home">
+        <img src="assets/logo.svg" width="40" height="40" alt="">
+        <span>gunnchOS3k MLV Game Jam</span>
+      </a>
+      <button type="button" class="menu-toggle" id="menu-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation menu">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#what-is-game-jam">What is a Game Jam?</a></li>
+          <li><a href="#timeline">Timeline</a></li>
+          <li><a href="#phone-first">Phone-First Toolkit</a></li>
+          <li><a href="#ways-to-build">Ways to Build</a></li>
+          <li><a href="#submit">Submit a Game</a></li>
+          <li><a href="#office-hours">Office Hours</a></li>
+          <li><a href="#parents">Parents &amp; Guardians</a></li>
+          <li><a href="#faq">FAQ</a></li>
+          <li><a href="#updates">Updates</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero" id="home">
+    <div class="hero-inner">
+      <p class="status-badge" role="status">Planned Summer 2026 — final dates and locations pending</p>
+      <p style="margin:0 0 0.5rem;font-size:0.95rem;opacity:0.9;">Lake County Phone-First Game Jam · NWI Summer Game Jam</p>
+      <h1>Make a Game From Where You Are</h1>
+      <p class="subhead">A phone-first, beginner-friendly summer game jam for Northwest Indiana — virtual by default, community-connected on Fridays, and open to people who want to learn, build, play, and share.</p>
+      <p class="belong-quote">You do not have to be &ldquo;fill in the blank&rdquo; to belong here. You can be yourself.</p>
+      <p class="hero-note">Theme and constraints will be revealed at kickoff so everyone starts with the same creative spark.</p>
+      <div class="badge-row" aria-label="Event features">
+        <span class="pill-badge">Phone-first</span>
+        <span class="pill-badge">Virtual-first</span>
+        <span class="pill-badge">Beginner-friendly</span>
+        <span class="pill-badge">No laptop required</span>
+        <span class="pill-badge">Theme revealed at kickoff</span>
+        <span class="pill-badge">Optional Friday office hours</span>
+      </div>
+      <div class="hero-actions">
+        <span class="btn btn-primary btn-disabled" aria-disabled="true">Registration coming soon</span>
+        <a class="btn btn-secondary" href="#what-is-game-jam">What is a game jam?</a>
+      </div>
+    </div>
+  </section>
+
+  <main id="main">
+    <section class="section" id="timeline">
+      <h2>Proposed Timeline</h2>
+      <p class="lead">This schedule is <strong>proposed</strong>, not finalized. Dates may shift if the community launch event changes.</p>
+      <ol class="quest-map">
+        <li class="quest-step proposed">
+          <span class="quest-marker" aria-hidden="true">1</span>
+          <div class="quest-body">
+            <span class="quest-tag">Proposed · Pending</span>
+            <strong>Saturday, June 13, 2026</strong>
+            Proposed Merrillville Hack Day — pending venue confirmation. If the Merrillville Hack Day is secured for this date, it can serve as a community launch before the jam.
+          </div>
+        </li>
+        <li class="quest-step proposed">
+          <span class="quest-marker" aria-hidden="true">2</span>
+          <div class="quest-body">
+            <span class="quest-tag">Proposed kickoff</span>
+            <strong>Monday morning, June 15, 2026</strong>
+            Proposed Game Jam kickoff — theme reveal, constraints reveal, registration and team formation open.
+          </div>
+        </li>
+        <li class="quest-step proposed">
+          <span class="quest-marker" aria-hidden="true">3</span>
+          <div class="quest-body">
+            <span class="quest-tag">Optional · Fridays</span>
+            <strong>Fridays during the jam</strong>
+            Optional in-person office hours at rotating Northwest Indiana community spaces, libraries, or large WiFi-friendly areas. <em>Not required to participate.</em>
+          </div>
+        </li>
+        <li class="quest-step proposed">
+          <span class="quest-marker" aria-hidden="true">4</span>
+          <div class="quest-body">
+            <span class="quest-tag">Proposed deadline</span>
+            <strong>Monday, July 27, 2026</strong>
+            Submission deadline.
+          </div>
+        </li>
+        <li class="quest-step proposed">
+          <span class="quest-marker" aria-hidden="true">5</span>
+          <div class="quest-body">
+            <span class="quest-tag">Proposed judging</span>
+            <strong>Tuesday, July 28 – Thursday, July 30, 2026</strong>
+            Judging, community playtesting, and finalist review.
+          </div>
+        </li>
+        <li class="quest-step proposed">
+          <span class="quest-marker" aria-hidden="true">6</span>
+          <div class="quest-body">
+            <span class="quest-tag">Proposed showcase</span>
+            <strong>Friday, July 31, 2026</strong>
+            Winners announced and online showcase.
+          </div>
+        </li>
+      </ol>
+      <div class="callout callout-info">
+        <strong>Timeline note</strong>
+        If the Hack Day date changes, the Game Jam timeline may shift to stay aligned with the community launch.
+      </div>
+    </section>
+
+    <section class="section" id="what-is-game-jam">
+      <h2>What is a Game Jam?</h2>
+      <p class="lead">A game jam is a creative challenge where individuals or teams make a game around a theme or constraint in a limited amount of time.</p>
+      <p>The game can be tiny. It can be funny. It can be serious. It can be a prototype. It can be made by a first-time creator. The goal is to <strong>learn, build, share, and finish</strong> something playable or understandable.</p>
+      <p><strong>A game jam is not only for expert coders.</strong> A submission can be:</p>
+      <ul>
+        <li>A playable game</li>
+        <li>An interactive story</li>
+        <li>A paper prototype</li>
+        <li>A clickable mockup</li>
+        <li>A board or card game concept</li>
+        <li>A Twine-style story (if tools are included later)</li>
+        <li>A Scratch-style or GDevelop prototype</li>
+        <li>A Replit web game</li>
+        <li>A demo video that clearly shows how to play</li>
+      </ul>
+      <p class="kb-links"><a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/what-is-a-game-jam.md">Full guide (markdown)</a></p>
+    </section>
+
+    <section class="section" id="mission">
+      <h2>Northwest Indiana Has Build Spaces Too</h2>
+      <p class="lead">You do not have to be in Silicon Valley, NYC, a university lab, or a big tech company to make games. You can be from Northwest Indiana, you can be yourself, and you can build from the device you already have.</p>
+      <p>This game jam is also a showcase of places in Northwest Indiana where people can learn, build, code, design, test, and collaborate. Game development and software engineering are not locked away in elite coastal spaces. People from <strong>Merrillville, Gary, Hammond, Crown Point, Hobart, Portage, Lake Station, East Chicago, Munster</strong>, and surrounding communities can build too.</p>
+      <div class="callout">
+        <strong>Equal footing</strong>
+        This is about equal footing. You can learn here. You can build here. You can start here.
+      </div>
+    </section>
+
+    <section class="section" id="virtual-first">
+      <h2>Virtual First, Community Connected</h2>
+      <p class="lead">Most building will happen online so transportation does not become a barrier.</p>
+      <p>Participants can work from home, school, a library, a church, a community center, a phone, a borrowed laptop, or wherever they have safe access to the internet.</p>
+      <p><strong>Friday office hours</strong> will be optional in-person build and help sessions. They are meant to create camaraderie, mentorship, WiFi access, troubleshooting help, and a reminder that Northwest Indiana has real places where people can build.</p>
+      <div class="callout callout-mint">
+        <strong>You can complete the entire jam virtually.</strong>
+        Office hours are support, not a barrier.
+      </div>
+    </section>
+
+    <section class="section" id="phone-first">
+      <h2>If You Have a Phone, You Can Jam</h2>
+      <p class="lead">This game jam is designed so a participant with only a phone can still make a submission. A laptop can help, but it is <strong>not required</strong> to participate, learn, compete, or have a meaningful project.</p>
+      <div class="toolkit-compare">
+        <div class="toolkit-col">
+          <h3>Bare Bones Toolkit</h3>
+          <p>For low storage, older phones, shared devices, or limited data.</p>
+          <ul>
+            <li>Web browser</li>
+            <li>Google account</li>
+            <li>Notes app</li>
+            <li>Camera app</li>
+            <li>Google Docs in browser</li>
+            <li>Google Slides in browser</li>
+            <li>Google Sheets in browser</li>
+            <li>Gemini in browser</li>
+            <li>Email</li>
+            <li>Optional: itch.io account (if submission platform uses itch.io)</li>
+            <li>Optional: GitHub account (if submitting source code)</li>
+            <li>Optional: Replit in browser</li>
+          </ul>
+        </div>
+        <div class="toolkit-col loaded">
+          <h3>Fully Loaded Toolkit</h3>
+          <p>For participants with more storage or stronger devices.</p>
+          <ul>
+            <li>Google Docs, Slides, Sheets, Drive apps</li>
+            <li>Gemini app or browser</li>
+            <li>Replit mobile app or browser</li>
+            <li>GDevelop web/mobile/desktop path if usable</li>
+            <li>Canva app</li>
+            <li>CapCut or phone video editor</li>
+            <li>GitHub app (optional)</li>
+            <li>itch.io account (optional)</li>
+            <li>Discord/GroupMe only if organizers decide to use one</li>
+            <li>Pixel art app, voice memo, license-safe sound resources (optional)</li>
+          </ul>
+        </div>
+      </div>
+      <div class="callout callout-info">
+        <strong>Storage note</strong>
+        If your phone storage is tight, do not install everything. Start with the Bare Bones Toolkit. A simple idea, clear demo, and short video can be a valid submission.
+      </div>
+      <p class="kb-links"><a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/phone-first-game-dev-toolkit.md">Phone-first toolkit guide</a></p>
+    </section>
+
+    <section class="section" id="ways-to-build">
+      <h2>Ways to Build</h2>
+      <p class="lead">Pick a path that matches your tools and comfort level. All paths are welcome.</p>
+      <div class="card-grid cols-3">
+        <article class="card">
+          <span class="tag">Path 1</span>
+          <h3>No-Code Game Prototype</h3>
+          <p><strong>Good for:</strong> first-time builders, younger learners, artists, storytellers.</p>
+          <p><strong>Tools:</strong> GDevelop, Scratch-style tools if allowed, Canva mockups, Google Slides clickable prototypes.</p>
+        </article>
+        <article class="card">
+          <span class="tag">Path 2</span>
+          <h3>Browser Game</h3>
+          <p><strong>Good for:</strong> Replit users, HTML/CSS/JS beginners.</p>
+          <p><strong>Tools:</strong> Replit, plain JavaScript, simple HTML canvas, GitHub Pages.</p>
+        </article>
+        <article class="card">
+          <span class="tag">Path 3</span>
+          <h3>Interactive Story</h3>
+          <p><strong>Good for:</strong> writers, artists, community storytellers.</p>
+          <p><strong>Tools:</strong> Google Slides, Docs + images, simple web story; Twine if included later.</p>
+        </article>
+        <article class="card">
+          <span class="tag">Path 4</span>
+          <h3>Paper / Card / Board Prototype</h3>
+          <p><strong>Good for:</strong> phone-only participants, design-first teams.</p>
+          <p><strong>Output:</strong> rules document, photos, demo video, printable cards or board.</p>
+        </article>
+        <article class="card">
+          <span class="tag">Path 5</span>
+          <h3>AI-Assisted Game Concept</h3>
+          <p><strong>Good for:</strong> brainstorming, story, dialogue, tutorials, rule balancing.</p>
+          <p><strong>Tools:</strong> Gemini, Google Docs, Sheets. AI can help — you must understand your project, disclose heavy AI use, and respect copyright.</p>
+        </article>
+        <article class="card">
+          <span class="tag">Path 6 · Optional</span>
+          <h3>Advanced Game Build</h3>
+          <p><strong>Good for:</strong> experienced developers.</p>
+          <p><strong>Tools:</strong> Unity, Godot, Unreal, Phaser, Defold, Python, JavaScript, etc. Welcome, but not required for success.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" id="sample-submissions">
+      <h2>Examples of Game Jam Submissions</h2>
+      <p class="lead">Examples only — bring your own idea. Final submissions must respond to the official theme and constraints revealed at kickoff.</p>
+      <ul>
+        <li>A one-button phone game where a character dodges obstacles</li>
+        <li>A Merrillville/Gary history quiz game</li>
+        <li>A simple endless runner inspired by bus routes or local roads</li>
+        <li>A rhythm game using claps, taps, or voice notes</li>
+        <li>A paper card game about building a community resource network</li>
+        <li>A Google Slides choose-your-own-adventure story</li>
+        <li>A Replit browser game where players collect resources for a neighborhood event</li>
+        <li>A GDevelop platformer about getting across town with limited transit</li>
+        <li>A mini puzzle game about WiFi signals, charging stations, or library resources</li>
+        <li>A sports training mini-game inspired by local school teams</li>
+        <li>A &ldquo;build your dream community center&rdquo; simulation</li>
+        <li>A game balancing school, work, family, and creativity</li>
+        <li>A phone-recorded demo of a board game prototype</li>
+        <li>A clickable Canva or Slides prototype with clear rules and gameplay loop</li>
+      </ul>
+      <p class="kb-links"><a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/sample-submissions.md">More examples (markdown)</a></p>
+    </section>
+
+    <section class="section" id="theme">
+      <h2>Theme and Constraints</h2>
+      <p class="lead">The <strong>theme will be revealed on kickoff day</strong>. <strong>Constraints will be revealed on kickoff day.</strong> Everyone starts with the same creative spark.</p>
+      <p>Themes should be broad enough for beginners and advanced builders. Constraints should encourage creativity without excluding phone-only participants.</p>
+      <p><strong>We have not chosen the final theme yet.</strong> Below are example ideas only — not official.</p>
+      <h3>Example themes (not final)</h3>
+      <ul class="example-themes">
+        <li>Signal</li><li>Home Base</li><li>Momentum</li><li>Bridge</li><li>Roots</li>
+        <li>Static</li><li>Power Up</li><li>First Contact</li><li>Routes</li>
+        <li>Build Where You Are</li><li>Level Up the Block</li>
+      </ul>
+      <h3>Example constraints (not final)</h3>
+      <ul>
+        <li>Must be playable or explainable in under 5 minutes</li>
+        <li>Must include a local/community connection</li>
+        <li>Must include a low-bandwidth or phone-friendly path</li>
+        <li>Must include a nonviolent option or family-friendly mode</li>
+        <li>Must include written instructions</li>
+        <li>Must include at least one accessibility consideration</li>
+        <li>Must include a demo video under 3 minutes</li>
+        <li>Must include a &ldquo;what we learned&rdquo; section</li>
+      </ul>
+      <p class="kb-links"><a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/theme-and-constraints.md">Theme &amp; constraints guide</a></p>
+    </section>
+
+    <section class="section" id="submit">
+      <h2>Submit a Game</h2>
+      <p class="lead"><strong>Submission platform coming soon.</strong> Final platform is pending — potential options include itch.io, Devpost, GitHub, Google Drive/Docs/Slides, or Replit links.</p>
+      <div class="two-col">
+        <div class="card">
+          <h3>Beginner submission</h3>
+          <ul>
+            <li>Project name</li>
+            <li>Team or solo participant name</li>
+            <li>Age/category if needed (handled carefully)</li>
+            <li>Short description</li>
+            <li>Theme interpretation</li>
+            <li>Tools used</li>
+            <li>How to play or understand the project</li>
+            <li>Link to game, prototype, document, or video</li>
+            <li>1–3 minute demo video (recommended)</li>
+            <li>What you learned</li>
+            <li>What you would improve next</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Advanced submission</h3>
+          <ul>
+            <li>Public repo if open source</li>
+            <li>Playable build link</li>
+            <li>README and play instructions</li>
+            <li>Credits/licenses for assets</li>
+            <li>Demo video</li>
+            <li>Accessibility notes</li>
+            <li>AI-use disclosure if AI was used heavily</li>
+          </ul>
+        </div>
+      </div>
+      <div class="callout">
+        <strong>No shame</strong>
+        A finished small game is better than an unfinished giant game.
+      </div>
+      <p class="kb-links">
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/submission-guide.md">Submission guide</a>
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/rules-draft.md">Rules draft</a>
+      </p>
+    </section>
+
+    <section class="section" id="judging">
+      <h2>Judging and Awards</h2>
+      <p class="lead">We reward completion, creativity, learning, accessibility, and storytelling — not just advanced code.</p>
+      <h3>Judging categories</h3>
+      <ul>
+        <li>Theme interpretation</li>
+        <li>Gameplay or interaction</li>
+        <li>Creativity</li>
+        <li>Community connection</li>
+        <li>Phone-first accessibility</li>
+        <li>Clarity of instructions</li>
+        <li>Learning journey</li>
+        <li>Visual, audio, and story presentation</li>
+        <li>Technical implementation</li>
+        <li>Fun factor</li>
+      </ul>
+      <h3>Planned award categories</h3>
+      <ul class="award-list">
+        <li>Best Overall</li>
+        <li>Best Beginner Game</li>
+        <li>Best Phone-First Game</li>
+        <li>Best Northwest Indiana Story</li>
+        <li>Best Community Impact</li>
+        <li>Best Use of AI as a Helper</li>
+        <li>Best Interactive Story</li>
+        <li>Best Paper Prototype</li>
+        <li>Best Browser Game</li>
+        <li>Best Art Direction</li>
+        <li>Best Sound or Music</li>
+        <li>Best Demo Video</li>
+        <li>People's Choice</li>
+        <li>Most Likely to Keep Going</li>
+      </ul>
+      <p><em>Prizes are planned; details depend on sponsors. Nothing is guaranteed until finalized.</em></p>
+      <p class="kb-links"><a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/judging-and-awards.md">Judging guide (markdown)</a></p>
+    </section>
+
+    <section class="section" id="parents">
+      <h2>Parents &amp; Guardians</h2>
+      <p class="lead">This is planned as an inclusive learning event for families across Northwest Indiana.</p>
+      <ul>
+        <li>Minors may participate with consent and guardian rules once finalized</li>
+        <li>Online community rules will be shared before registration opens</li>
+        <li>No private one-on-one adult/minor mentoring</li>
+        <li>Office hours will use visible public spaces and group support</li>
+        <li>Participants should not publish private personal information in games or profiles</li>
+        <li>Families can help with brainstorming, playtesting, rides, meals, encouragement, and demo practice</li>
+        <li>Photo and media rules will be explained before any in-person showcase or office hour photography</li>
+      </ul>
+      <p class="kb-links"><a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/parents-and-guardians.md">Parents guide</a></p>
+    </section>
+
+    <section class="section" id="safety">
+      <h2>Safety, Inclusion, and Accessibility</h2>
+      <h3>Community safety</h3>
+      <ul>
+        <li>Respect all participants</li>
+        <li>No harassment, bullying, hate symbols, or doxxing</li>
+        <li>No explicit sexual content in submissions</li>
+        <li>No sharing private addresses, passwords, school IDs, or sensitive personal information</li>
+        <li>Keep submissions appropriate for a community event that may include minors</li>
+        <li>Use assets you created, have permission to use, or are properly licensed — credit sources</li>
+        <li>Disclose heavy AI use; understand what you submit</li>
+        <li>The event team can remove unsafe or inappropriate submissions</li>
+      </ul>
+      <h3>Accessibility encouraged</h3>
+      <ul>
+        <li>Phone-first and browser-playable games encouraged</li>
+        <li>Captions or written instructions encouraged</li>
+        <li>Colorblind-friendly choices, simple controls, low-storage paths encouraged</li>
+        <li>Plain-language README encouraged</li>
+        <li>Virtual participation allowed; office hours optional</li>
+      </ul>
+      <p class="kb-links">
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/accessibility-and-inclusion.md">Accessibility guide</a>
+        <a href="https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md">MLH Code of Conduct (reference)</a>
+      </p>
+    </section>
+
+    <section class="section" id="office-hours">
+      <h2>Friday Office Hours &amp; Candidate Build Hubs</h2>
+      <p class="lead"><strong>Office hour locations will be confirmed later.</strong> Friday sessions are optional — you can finish the entire jam virtually.</p>
+      <p>Candidate spaces being explored (not confirmed):</p>
+      <ul class="hub-list">
+        <li class="hub-item"><strong>Lake County Public Library branches</strong> <span class="hub-pending">— candidate, pending outreach</span></li>
+        <li class="hub-item"><strong>Gary Public Library and Cultural Center</strong> <span class="hub-pending">— candidate</span></li>
+        <li class="hub-item"><strong>Gary Public Library Kennedy Branch</strong> <span class="hub-pending">— candidate</span></li>
+        <li class="hub-item"><strong>Gary Public Library Woodson Branch</strong> <span class="hub-pending">— candidate</span></li>
+        <li class="hub-item"><strong>Hammond Public Library</strong> <span class="hub-pending">— candidate</span></li>
+        <li class="hub-item"><strong>Portage Public Library</strong> <span class="hub-pending">— candidate</span></li>
+        <li class="hub-item"><strong>Dean &amp; Barbara White Community Center</strong> <span class="hub-pending">— candidate if available</span></li>
+        <li class="hub-item"><strong>Churches / community centers with reliable WiFi</strong> <span class="hub-pending">— candidate</span></li>
+        <li class="hub-item"><strong>School / community partner spaces</strong> <span class="hub-pending">— if permission is secured</span></li>
+      </ul>
+      <h3>Hub evaluation criteria</h3>
+      <ul>
+        <li>Reliable WiFi · Enough outlets · Seating for 15–40 people</li>
+        <li>Public transit or ride accessibility · Youth-safe environment</li>
+        <li>Restrooms · Accessibility · Staff/volunteer check-in</li>
+        <li>Permission for a group to meet · Minors/guardian structure if relevant</li>
+        <li>Ability to host Friday late afternoon or evening office hours</li>
+      </ul>
+      <p class="kb-links">
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/friday-office-hours.md">Friday office hours guide</a>
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/community-build-hubs.md">Community build hubs</a>
+      </p>
+    </section>
+
+    <section class="section" id="faq">
+      <h2>FAQ</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-1" id="gj-faq-q-1">Do I need a laptop?</button>
+          <div class="faq-answer" id="gj-faq-1" role="region" aria-labelledby="gj-faq-q-1" hidden><p><strong>No.</strong></p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-2" id="gj-faq-q-2">Do I need to know how to code?</button>
+          <div class="faq-answer" id="gj-faq-2" role="region" aria-labelledby="gj-faq-q-2" hidden><p><strong>No.</strong> Many valid submissions use slides, paper prototypes, GDevelop, or demo videos.</p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-3" id="gj-faq-q-3">Can I submit a paper game?</button>
+          <div class="faq-answer" id="gj-faq-3" role="region" aria-labelledby="gj-faq-q-3" hidden><p><strong>Yes,</strong> if the rules, gameplay, photos, and demo video make it understandable.</p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-4" id="gj-faq-q-4">Can I make a game by myself?</button>
+          <div class="faq-answer" id="gj-faq-4" role="region" aria-labelledby="gj-faq-q-4" hidden><p><strong>Yes.</strong></p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-5" id="gj-faq-q-5">Can I join a team?</button>
+          <div class="faq-answer" id="gj-faq-5" role="region" aria-labelledby="gj-faq-q-5" hidden><p><strong>Yes.</strong> Team formation will open with registration.</p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-6" id="gj-faq-q-6">Can I use AI?</button>
+          <div class="faq-answer" id="gj-faq-6" role="region" aria-labelledby="gj-faq-q-6" hidden><p><strong>Planned yes,</strong> as a helper, with disclosure and respect for copyright and safety rules.</p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-7" id="gj-faq-q-7">Is this only for students?</button>
+          <div class="faq-answer" id="gj-faq-7" role="region" aria-labelledby="gj-faq-q-7" hidden><p><strong>No.</strong> Students, professionals, artists, gamers, and beginners are welcome.</p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-8" id="gj-faq-q-8">Can minors participate?</button>
+          <div class="faq-answer" id="gj-faq-8" role="region" aria-labelledby="gj-faq-q-8" hidden><p><strong>Planned</strong> with consent and safety rules once finalized.</p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-9" id="gj-faq-q-9">Do I have to attend Friday office hours?</button>
+          <div class="faq-answer" id="gj-faq-9" role="region" aria-labelledby="gj-faq-q-9" hidden><p><strong>No.</strong> The full jam can be completed virtually.</p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-10" id="gj-faq-q-10">Where will office hours happen?</button>
+          <div class="faq-answer" id="gj-faq-10" role="region" aria-labelledby="gj-faq-q-10" hidden><p>Candidate locations are being explored across Northwest Indiana. None are confirmed yet.</p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-11" id="gj-faq-q-11">What is the theme?</button>
+          <div class="faq-answer" id="gj-faq-11" role="region" aria-labelledby="gj-faq-q-11" hidden><p>Revealed at kickoff. You may practice tools beforehand, but final submissions should respond to the official theme and constraints.</p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-12" id="gj-faq-q-12">Can I start before the theme is announced?</button>
+          <div class="faq-answer" id="gj-faq-12" role="region" aria-labelledby="gj-faq-q-12" hidden><p>You may practice and learn tools, but final jam submissions should respond to the official theme and constraints at kickoff.</p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-13" id="gj-faq-q-13">What if my game is not finished?</button>
+          <div class="faq-answer" id="gj-faq-13" role="region" aria-labelledby="gj-faq-q-13" hidden><p>Submit what you have with a clear demo and reflection. A small finished game beats a giant unfinished one.</p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-14" id="gj-faq-q-14">Can I use assets from the internet?</button>
+          <div class="faq-answer" id="gj-faq-14" role="region" aria-labelledby="gj-faq-q-14" hidden><p>Only if you have permission or the license allows it, and you credit sources.</p></div>
+        </div>
+        <div class="faq-item">
+          <button type="button" class="faq-question" aria-expanded="false" aria-controls="gj-faq-15" id="gj-faq-q-15">What if I only have low storage on my phone?</button>
+          <div class="faq-answer" id="gj-faq-15" role="region" aria-labelledby="gj-faq-q-15" hidden><p>Use the <strong>Bare Bones Toolkit</strong> — browser-based tools and a short demo video can be enough.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="sources">
+      <h2>Sources &amp; Learn More</h2>
+      <ul class="sources-list">
+        <li><a href="https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages" target="_blank" rel="noopener noreferrer">GitHub Pages documentation</a></li>
+        <li><a href="https://itch.io/jams" target="_blank" rel="noopener noreferrer">itch.io Game Jams</a></li>
+        <li><a href="https://itch.io/jam/game-off-2025" target="_blank" rel="noopener noreferrer">GitHub Game Off 2025 on itch.io</a></li>
+        <li><a href="https://github.blog/news-insights/company-news/github-game-off-2025-theme-announcement/" target="_blank" rel="noopener noreferrer">GitHub Game Off theme announcement</a></li>
+        <li><a href="https://gamedevjs.com/jam/2026/" target="_blank" rel="noopener noreferrer">GameDev.js Jam 2026</a></li>
+        <li><a href="https://itch.io/jam/gamedevjs-2026" target="_blank" rel="noopener noreferrer">GameDev.js Jam on itch.io</a></li>
+        <li><a href="https://gdevelop.io/" target="_blank" rel="noopener noreferrer">GDevelop</a></li>
+        <li><a href="https://docs.replit.com/platforms/mobile-app" target="_blank" rel="noopener noreferrer">Replit Mobile</a></li>
+        <li><a href="https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md" target="_blank" rel="noopener noreferrer">MLH Code of Conduct</a></li>
+        <li><a href="https://digitalocean.devpost.com/" target="_blank" rel="noopener noreferrer">DigitalOcean Devpost example</a></li>
+        <li><a href="https://digitalocean.devpost.com/rules" target="_blank" rel="noopener noreferrer">DigitalOcean Devpost rules example</a></li>
+      </ul>
+    </section>
+
+    <section class="section" id="updates">
+      <h2>Updates</h2>
+      <article class="update-card">
+        <time datetime="2026-05-20">May 20, 2026</time>
+        <p>Planning is underway for the Summer 2026 Lake County Phone-First Game Jam. The proposed game jam would begin after the Merrillville pilot Hack Day if the Hack Day is secured for Saturday, June 13, 2026. Friday office hour locations and the final submission platform are pending.</p>
+      </article>
+      <p class="kb-links"><a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/README.md">Knowledge base index</a></p>
+    </section>
+
+    <section class="section" id="knowledge-base">
+      <h2>Knowledge Base</h2>
+      <p class="lead">Official guides for this Game Jam — separate from any other gunnchOS3k MLV repository.</p>
+      <div class="kb-links">
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/what-is-a-game-jam.md">What is a Game Jam?</a>
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/phone-first-game-dev-toolkit.md">Phone-First Toolkit</a>
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/friday-office-hours.md">Friday Office Hours</a>
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/submission-guide.md">Submission Guide</a>
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/sample-submissions.md">Sample Submissions</a>
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/judging-and-awards.md">Judging &amp; Awards</a>
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/parents-and-guardians.md">Parents</a>
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/accessibility-and-inclusion.md">Accessibility</a>
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/community-build-hubs.md">Build Hubs</a>
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/theme-and-constraints.md">Theme &amp; Constraints</a>
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/rules-draft.md">Rules Draft</a>
+        <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam/blob/main/resources/README-for-nontechnical-visitors.md">For nontechnical visitors</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p><strong>gunnchOS3k MLV Game Jam</strong> — Lake County Phone-First Game Jam · Planned Summer 2026</p>
+      <p>Virtual-first · Phone-first · Beginner-friendly · Theme revealed at kickoff</p>
+      <p class="disclaimer">
+        Official registration is not open yet. Office hour locations are pending. Theme and constraints will be revealed at kickoff.
+        This repository is the standalone public home for the Game Jam: <a href="https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam">gunnchOS3k-MLV-GameJam</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

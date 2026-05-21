@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="gunnchOS3k MLV Game Jam logo">
+  <rect width="64" height="64" rx="14" fill="#0f2744"/>
+  <rect x="14" y="18" width="36" height="28" rx="6" fill="#1a3a5c" stroke="#3b9eff" stroke-width="2"/>
+  <circle cx="24" cy="30" r="4" fill="#e8b84a"/>
+  <circle cx="40" cy="30" r="4" fill="#e8b84a"/>
+  <path d="M22 38 Q32 44 42 38" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <rect x="28" y="12" width="8" height="6" rx="2" fill="#3b9eff"/>
+</svg>
