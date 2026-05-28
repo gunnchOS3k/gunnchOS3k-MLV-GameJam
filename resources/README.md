@@ -12,6 +12,7 @@ This repository is **standalone**. It is the public knowledge base for the Game 
 |-------|----------|
 | [README for nontechnical visitors](README-for-nontechnical-visitors.md) | Families, sponsors, first-time visitors |
 | [What is a Game Jam?](what-is-a-game-jam.md) | Beginners |
+| [Participant Outcomes](participant-outcomes.md) | Zero-to-hero transformation, proof of work, portfolio ladder |
 | [Phone-First Game Dev Toolkit](phone-first-game-dev-toolkit.md) | Phone-only participants |
 | [Friday Office Hours](friday-office-hours.md) | Anyone considering in-person support |
 | [Community Build Hubs](community-build-hubs.md) | Organizers, library/community outreach |

@@ -59,6 +59,7 @@ gunnchOS3k-MLV-GameJam/
 │   ├── README.md
 │   ├── README-for-nontechnical-visitors.md
 │   ├── what-is-a-game-jam.md
+│   ├── participant-outcomes.md
 │   ├── phone-first-game-dev-toolkit.md
 │   ├── friday-office-hours.md
 │   ├── submission-guide.md
@@ -94,7 +95,8 @@ cd docs && python3 -m http.server 8080
 ## Knowledge base
 
 Start here: [resources/README.md](resources/README.md)  
-For families: [resources/README-for-nontechnical-visitors.md](resources/README-for-nontechnical-visitors.md)
+For families: [resources/README-for-nontechnical-visitors.md](resources/README-for-nontechnical-visitors.md)  
+Participant outcomes: [resources/participant-outcomes.md](resources/participant-outcomes.md) — zero-to-hero build sprint, proof of work, portfolio ladder
 
 ---
 
