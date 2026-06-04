@@ -1,8 +1,8 @@
 # Phone-First Game Dev Toolkit
 
-**Planned Summer 2026 Game Jam**
+**Jam live on itch.io:** [lake-county-phone-first-game-jam](https://itch.io/jam/lake-county-phone-first-game-jam)
 
-If you have a phone, you can jam. A laptop helps but is **not required**.
+You do not need a laptop. A phone can be enough.
 
 ---
 
@@ -12,18 +12,17 @@ For low storage, older phones, shared devices, or limited data.
 
 | Tool | Use for |
 |------|---------|
-| Web browser | Docs, Slides, Sheets, Gemini, Replit web, itch.io web |
-| Google account | Sign-in |
-| Notes app | Ideas, task lists |
-| Camera app | Screenshots, demo video |
-| Google Docs (browser) | Design doc, rules, README |
+| Phone web browser | itch.io, Docs, Slides, Sheets, Gemini, Replit web |
+| **itch.io account** | Join jam, submit project |
+| Google account | Docs, Drive, Slides |
+| Google Docs (browser) | Rules, design doc, README text |
 | Google Slides (browser) | Clickable story, pitch |
-| Google Sheets (browser) | Score tables, balancing |
-| Gemini (browser) | Brainstorming (with disclosure) |
+| Google Sheets (browser) | Scores, balancing |
+| Gemini (browser) | Brainstorming (disclose use) |
+| Notes app | Ideas, tasks |
+| Camera app | Screenshots, demo video |
 | Email | Team contact |
-| itch.io (optional) | If submission uses itch.io |
-| GitHub (optional) | If submitting source |
-| Replit (optional) | Browser games |
+| Discord (web/mobile) | Community help when invite is posted |
 
 **Do not install everything if storage is tight.**
 
@@ -33,27 +32,28 @@ For low storage, older phones, shared devices, or limited data.
 
 | Tool | Use for |
 |------|---------|
-| Google Docs / Slides / Sheets / Drive apps | Editing on the go |
-| Gemini app | AI assist |
-| Replit mobile | Browser games |
+| itch.io account | Join and submit |
+| Discord app | Community, office hours (when live) |
+| Replit mobile / browser | Browser games |
 | GDevelop | No-code / low-code games |
-| Canva | Art and UI mockups |
-| CapCut or phone editor | Demo video |
+| Google Docs / Slides / Sheets / Drive apps | Editing on the go |
+| Gemini app | AI assist (disclose) |
+| Canva | Art and UI |
+| CapCut or phone video editor | Demo video |
 | GitHub app | Code repos (optional) |
-| itch.io | Upload builds (optional) |
-| Discord/GroupMe | Only if organizers announce |
 | Pixel art / voice memo / license-safe audio | Optional |
+| Laptop tools (Unity, Godot, etc.) | Optional — not required |
 
 ---
 
 ## Storage note
 
-A **simple idea + clear demo video + written instructions** can be a valid submission.
+A **simple idea + demo video + clear itch.io description** can be a complete submission.
 
 ---
 
-## Links
+## Quick links
 
 - [GDevelop](https://gdevelop.io/)  
 - [Replit Mobile](https://docs.replit.com/platforms/mobile-app)  
-- [Gemini](https://gemini.google.com/)  
+- [itch.io Game Jams](https://itch.io/jams)  

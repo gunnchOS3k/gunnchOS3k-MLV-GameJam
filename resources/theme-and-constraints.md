@@ -1,54 +1,49 @@
 # Theme and Constraints
 
-## Official theme: not chosen yet
-
-The **final theme** will be revealed at **kickoff** (proposed Monday morning, **June 15, 2026**).
-
-The **final constraints** will be revealed at the same time.
-
-Everyone starts with the same creative spark. **Do not treat example themes below as official.**
+**Official jam:** [itch.io/jam/lake-county-phone-first-game-jam](https://itch.io/jam/lake-county-phone-first-game-jam)
 
 ---
 
-## Why reveal at kickoff?
+## Theme
 
-- Fair start for all time zones and schedules  
-- Prevents early teams from gaining unfair advantage  
-- Builds shared excitement in the community  
-- Matches common game jam practice (see [GitHub Game Off](https://github.blog/news-insights/company-news/github-game-off-2025-theme-announcement/), [GameDev.js Jam](https://gamedevjs.com/jam/2026/))
+The **official theme will be revealed when the jam begins** on **Friday, June 5, 2026**.
 
----
+Do not worry if you have never made a game before. The theme will be broad enough for beginners, phone-only participants, artists, writers, designers, storytellers, and experienced developers.
 
-## Example themes (NOT FINAL)
-
-Signal · Home Base · Momentum · Bridge · Roots · Static · Power Up · First Contact · Routes · Build Where You Are · Level Up the Block
+**Practice tools before June 5** — but **final submissions must respond to the official theme.**
 
 ---
 
-## Example constraints (NOT FINAL)
+## Constraints (participation expectations)
 
-- Playable or explainable in under 5 minutes  
-- Local or community connection  
-- Low-bandwidth or phone-friendly path  
-- Nonviolent or family-friendly mode option  
-- Written instructions included  
-- At least one accessibility consideration documented  
-- Demo video under 3 minutes  
-- “What we learned” section included  
+Mirror of itch.io / community rules:
 
----
-
-## Designing for beginners
-
-Final constraints should:
-
-- Allow **paper prototypes** and **Slides stories**  
-- Allow **browser** and **phone** builds  
-- Not require paid software  
-- Not require 3D or AAA scope  
+- Respond to the **official theme**  
+- Build something **playable, watchable, readable, or explainable**  
+- Include a **phone-friendly path** where possible  
+- Submit enough for judges to understand your project ([Proof of Work Packet](proof-of-work-packet.md))  
+- Keep projects appropriate for a community event that may include minors  
+- Credit assets, collaborators, tools, tutorials, and **AI assistance**  
+- Follow [Rules](rules.md), [AI Use Policy](ai-use-policy.md), and [Asset Licensing](asset-licensing.md)  
 
 ---
 
-## Practice before kickoff
+## Example themes (NOT official — for practice only)
 
-Participants may **learn tools** and **practice** before kickoff. **Final jam submissions** must clearly respond to the official theme and constraints.
+If you want to practice before June 5, use personal practice themes only. **Do not submit practice games as final theme entries.**
+
+Signal · Home Base · Momentum · Bridge · Roots · Build Where You Are
+
+---
+
+## What you can submit
+
+- Playable digital game  
+- Browser game (Replit, HTML5)  
+- Phone-friendly prototype  
+- GDevelop project  
+- Interactive story (Slides, etc.)  
+- Paper/card/board prototype with photos and video  
+- Phone-recorded demo of a game concept  
+
+A finished small game is better than an unfinished giant game.

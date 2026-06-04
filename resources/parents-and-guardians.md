@@ -1,53 +1,68 @@
 # Parents and Guardians
 
-**Planned inclusive learning event · Policies finalized before registration**
+**Lake County Phone-First Game Jam** — virtual-first, hosted on [itch.io](https://itch.io/jam/lake-county-phone-first-game-jam)
+
+---
 
 ## Overview
 
-The **Lake County Phone-First Game Jam** is a **virtual-first** summer challenge. Your child can participate mostly from home using a phone or shared device. **Friday office hours are optional.**
+This is an inclusive **learning and building** event. Most participation happens **online** from home, school, or library WiFi. **Friday office hours** are optional virtual sessions on Discord (invite coming soon).
 
-## What participants do
+**No cash prizes** — value is skills, documentation, public recognition, and portfolio proof of work.
 
-- Learn game-making tools at their level  
-- Collaborate online (teams or solo)  
-- Build toward the kickoff **theme and constraints**  
-- Submit a project with instructions and demo  
-- Join optional community playtesting and showcase online  
+---
 
-## How you can help
+## What students will do
 
-- Encourage finishing a **small** complete project  
-- Help record a **short demo video**  
-- Playtest and give friendly feedback  
-- Support time management over the jam weeks  
-- Help with rides **only if** you choose optional office hours (when locations are announced)  
+- Join the jam on itch.io  
+- Build a game or prototype (digital, paper, story, or demo-based)  
+- Document and submit before **July 11, 2026 at 11:59 PM Central**  
+- Optional: join Discord for help and community (when invite is posted)  
+
+---
+
+## Discord
+
+The organizer will use Discord with a dedicated Game Jam channel. **Invite link: coming soon.**
+
+- Read rules before posting  
+- **No private one-on-one adult/minor mentoring**  
+- Support happens in **public or group channels**  
+
+See [Discord Guide](discord-guide.md).
+
+---
 
 ## Minors
 
-- Participation is **planned** with guardian consent and safety rules  
-- Forms and online rules will be shared **before registration opens**  
-- **No private one-on-one** adult/minor mentoring  
+- Minors may participate with **guardian consent** and safety expectations  
+- Do not publish private addresses, passwords, school IDs, or sensitive personal data in games or chat  
+- Photo/media rules apply if any in-person optional events are announced later  
 
-## Privacy
+---
 
-Children should **not** publish:
+## How families can help
 
-- Home addresses  
-- Passwords  
-- Private school IDs  
-- Medical or sensitive personal data  
-- Other people’s private information without consent  
+- Encourage a **small, finishable** project  
+- Help record a **short demo video**  
+- Playtest and give friendly feedback  
+- Support time management across the jam weeks  
+- Review itch.io page text before submit  
 
-## In-person events
+---
 
-Office hours and any showcase will use **public, visible group settings**. Photo/media choices will be explained in advance.
+## Safety
 
-## Online safety
+- Harassment and bullying are not tolerated  
+- Submissions must be appropriate for a community event with minors  
+- Report concerns to organizers/moderators  
 
-Harassment, bullying, and inappropriate content are not allowed. Organizers may remove unsafe submissions.
+See [Rules](rules.md) and [Accessibility and Inclusion](accessibility-and-inclusion.md).
 
-See [Accessibility and Inclusion](accessibility-and-inclusion.md) and [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md) as a community reference.
+---
 
-## Status
+## Office hours and in-person hubs
 
-Registration is **not open**. Office hour locations are **pending**.
+Friday sessions are **virtual-first**. Any library or community hub meetups are **candidates only** — not confirmed partners.
+
+See [Office Hours](office-hours.md).

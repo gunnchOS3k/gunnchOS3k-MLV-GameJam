@@ -36,4 +36,4 @@ Use assets you created, have permission to use, or that are properly licensed. *
 
 ## Need accommodations?
 
-Contact organizers when registration opens. We will document how to request support (captioning, timing extensions where fair, etc.).
+Contact organizers via Discord help desk (when live) or the itch.io jam page. We will document how to request support (captioning, timing extensions where fair, etc.).

@@ -107,4 +107,4 @@ This is meant to be a **positive pressure-cooker experience**, not burnout or hu
 - [Phone-First Game Dev Toolkit](phone-first-game-dev-toolkit.md)  
 - [Sample Submissions](sample-submissions.md)  
 
-**Status:** Planned Summer 2026 · Registration coming soon
+**Jam live:** [itch.io/jam/lake-county-phone-first-game-jam](https://itch.io/jam/lake-county-phone-first-game-jam) · Opens June 5, 2026 · Submit by July 11, 2026

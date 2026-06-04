@@ -1,63 +1,93 @@
 # Submission Guide
 
-**Submission platform coming soon**
+**Official submission platform: [itch.io](https://itch.io/jam/lake-county-phone-first-game-jam)**
 
-Final platform is pending. Potential options:
-
-- [itch.io](https://itch.io/jams) for game uploads and jam flow  
-- Devpost for hackathon-style project pages  
-- GitHub for source code  
-- Google Drive / Docs / Slides for beginner submissions  
-- Replit links for browser builds  
+**Deadline:** Saturday, July 11, 2026 at **11:59 PM Central**
 
 ---
 
-## Beginner submission checklist
+## How to join the jam
 
-- [ ] Project name  
-- [ ] Team name or solo participant name  
-- [ ] Age/category if needed (handled carefully per youth policy)  
-- [ ] Short description  
-- [ ] **Theme interpretation** (required for final jam)  
-- [ ] Tools used  
-- [ ] How to play or understand the project  
-- [ ] Link to playable game, prototype, document, or video  
-- [ ] 1–3 minute demo video (recommended)  
-- [ ] What you learned  
-- [ ] What you would improve next  
-- [ ] AI disclosure if AI was used heavily  
-- [ ] Asset credits and licenses  
+1. Go to [lake-county-phone-first-game-jam on itch.io](https://itch.io/jam/lake-county-phone-first-game-jam)  
+2. Click **Join jam** (itch.io account required — free to create)  
+3. Read the theme when the jam opens **Friday, June 5, 2026**  
+4. Build your project  
+5. Create an **itch.io project page** for your game  
+6. Submit the project to the jam before the deadline  
 
 ---
 
-## Advanced submission checklist
+## How to create an itch.io project page
 
-- [ ] Public repo (if open source)  
-- [ ] Playable build link  
-- [ ] README with play/setup instructions  
-- [ ] Credits and licenses for all assets  
-- [ ] Demo video  
-- [ ] Accessibility notes  
-- [ ] AI-use disclosure  
+1. From your itch.io dashboard, choose **Create new project**  
+2. Upload your build (HTML5 zip, executable, or files) **or** link to an external demo (Replit, Google Drive video, etc.) — follow itch.io’s format help  
+3. Write a clear **description**: what it is, how to play, theme connection  
+4. Add **screenshots** and optional **trailer/demo video**  
+5. On the jam page, click **Submit game** and select your project  
 
----
-
-## No shame rule
-
-> **A finished small game is better than an unfinished giant game.**
-
-Submit with a clear demo and honest reflection even if features are incomplete.
+**Tip:** A finished small game beats an unfinished giant game.
 
 ---
 
-## Before kickoff
+## What to submit
 
-You may learn tools early. **Final submissions** must respond to the official **theme and constraints** revealed at kickoff.
+At minimum, judges should understand:
+
+- Project name and creator/team  
+- Theme connection  
+- How to play or understand the project  
+- Tools used  
+- Screenshots or demo video  
+- Asset credits and AI disclosure if relevant  
+
+See [Proof of Work Packet](proof-of-work-packet.md).
 
 ---
 
-## References
+## Beginner submission path
 
-- [Sample Submissions](sample-submissions.md)  
-- [Rules Draft](rules-draft.md)  
-- [DigitalOcean Devpost rules example](https://digitalocean.devpost.com/rules)  
+- itch.io page with description + screenshots  
+- Demo video (phone recording is fine)  
+- Google Doc/Slides link in description if your “game” is a story or paper prototype  
+- Plain-language “how to play”  
+
+---
+
+## Fully loaded submission path (optional)
+
+- Playable build on itch.io  
+- GitHub or Replit link in description  
+- README pasted or linked  
+- Pitch deck link  
+- Reproducibility notes  
+- Portfolio link  
+
+---
+
+## Demo video guidance
+
+- 1–3 minutes  
+- Show title, theme fit, and how to play  
+- Record on phone if needed  
+- Quiet space; on-screen text helps  
+
+---
+
+## Late submissions
+
+Hosts **may or may not** accept late submissions. Do not count on extensions — aim for **July 11, 11:59 PM Central**.
+
+---
+
+## After you submit
+
+- Share in Discord **#game-jam-showcase** when live  
+- Keep building your [portfolio artifact](portfolio-readiness.md)  
+
+---
+
+## Related
+
+- [Rules](rules.md)  
+- [AI Use Policy](ai-use-policy.md)  
+- [Asset Licensing](asset-licensing.md)  

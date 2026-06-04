@@ -1,39 +1,46 @@
 # What is a Game Jam?
 
-A **game jam** is a creative challenge where people make a game (or game-like project) in a limited time — often around a **theme** and **constraints**.
+**Lake County Phone-First Game Jam** — live on [itch.io](https://itch.io/jam/lake-county-phone-first-game-jam)
+
+A **game jam** is a creative challenge where people make a game (or game-like project) in a limited time — often around a **theme**.
+
+---
 
 ## It is not only for coders
 
 You might submit:
 
 - A playable digital game  
-- An interactive story  
+- A browser game (Replit, HTML5)  
+- A GDevelop or phone-friendly prototype  
+- An interactive story (Google Slides, etc.)  
 - A paper or card game with photos and rules  
-- A clickable Slides or Canva prototype  
-- A browser game from Replit  
-- A GDevelop or no-code prototype  
-- A clear demo video showing how it works  
+- A phone-recorded demo of a concept  
 
-## What is the goal?
+---
 
-**Learn, build, share, and finish** something others can understand and play (or follow along with).
+## This jam
 
-## Lake County Phone-First Game Jam
+- **Virtual-first** — build from home, school, library, or phone  
+- **Phone-first** — laptop not required  
+- **Theme revealed June 5, 2026** when the jam opens  
+- **Submit on itch.io** by **July 11, 2026 at 11:59 PM Central**  
+- **No cash prizes** — proof of work, recognition, portfolio value  
+- **Optional Friday office hours** on Discord (invite coming soon)  
 
-This jam is **virtual-first** and **phone-first**:
+---
 
-- Most work happens online  
-- Optional Friday office hours for WiFi and mentorship  
-- Theme and constraints revealed at **kickoff**  
+## Goal
 
-## Practice vs. final submission
+**Learn, build, share, and finish** something playable or understandable.
 
-You may **practice tools** before kickoff. **Final submissions** should respond to the official theme and constraints announced at kickoff.
+A finished small game is better than an unfinished giant game.
 
-## Learn more
+---
 
-- [Submission Guide](submission-guide.md)  
-- [Sample Submissions](sample-submissions.md)  
-- [itch.io Game Jams](https://itch.io/jams)  
+## Next steps
 
-**Status:** Planned Summer 2026 · Registration coming soon
+1. [Join on itch.io](https://itch.io/jam/lake-county-phone-first-game-jam)  
+2. [Phone-First Toolkit](phone-first-game-dev-toolkit.md)  
+3. [Submission Guide](submission-guide.md)  
+4. [Participant Outcomes](participant-outcomes.md)  

@@ -665,3 +665,88 @@ main {
 .packet-tier h3 { margin-top: 0; }
 .packet-tier.minimum { border-top: 4px solid var(--blue); }
 .packet-tier.loaded { border-top: 4px solid var(--gold); }
+
+/* Live jam / itch.io */
+.status-badge.live {
+  background: rgba(94, 234, 212, 0.2);
+  border-color: var(--mint);
+  color: #ecfdf5;
+}
+.btn-itch {
+  background: #fa5c5c;
+  color: var(--white);
+  border-color: #fa5c5c;
+}
+.btn-itch:hover {
+  background: #e54a4a;
+  color: var(--white);
+}
+.btn-discord-soon {
+  background: transparent;
+  color: var(--gray-500);
+  border: 2px dashed var(--gray-200);
+  cursor: default;
+  pointer-events: none;
+  font-size: 0.92rem;
+  min-height: 44px;
+}
+.platform-card {
+  border-top: 4px solid var(--blue);
+}
+.platform-card.itch { border-top-color: #fa5c5c; }
+.platform-card.github { border-top-color: var(--navy); }
+.platform-card.discord { border-top-color: #5865f2; }
+.quick-start {
+  counter-reset: step;
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+}
+.quick-start li {
+  counter-increment: step;
+  position: relative;
+  padding: 0.85rem 0 0.85rem 3rem;
+  border-bottom: 1px solid var(--gray-200);
+  color: var(--gray-700);
+}
+.quick-start li::before {
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: 0.75rem;
+  width: 2rem;
+  height: 2rem;
+  background: var(--navy);
+  color: var(--gold);
+  font-weight: 800;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.9rem;
+}
+.callout-no-cash {
+  background: linear-gradient(135deg, #1a3a5c 0%, #0f2744 100%);
+  color: var(--white);
+  border: 2px solid var(--gold);
+  border-radius: var(--radius-lg);
+  padding: 1.35rem;
+}
+.callout-no-cash strong { color: var(--gold); }
+.callout-no-cash p { color: rgba(255,255,255,0.92); margin: 0.5rem 0 0; }
+.discord-channel-list {
+  font-size: 0.92rem;
+  background: var(--gray-50);
+  border-radius: var(--radius);
+  padding: 1rem;
+  margin: 1rem 0;
+}
+.discord-channel-list code {
+  color: var(--navy);
+  font-size: 0.88rem;
+}
+.quest-step.live .quest-marker {
+  background: var(--mint);
+  color: var(--navy);
+  border-color: var(--mint);
+}

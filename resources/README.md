@@ -1,35 +1,61 @@
 # gunnchOS3k MLV Game Jam — Knowledge Base
 
-Official reusable guides for the **Summer 2026 Lake County Phone-First Game Jam** (also called **NWI Summer Game Jam**).
+**Lake County Phone-First Game Jam** · Hosted by **gunnchOS3k MLV**
 
-This repository is **standalone**. It is the public knowledge base for the Game Jam only — not a subpage of the Hackathons repo.
+| | |
+|---|---|
+| **Official jam (join & submit)** | [itch.io/jam/lake-county-phone-first-game-jam](https://itch.io/jam/lake-county-phone-first-game-jam) |
+| **This repo** | Public knowledge base, toolkit, rules, portfolio guides |
+| **Dates** | June 5 – July 11, 2026 (submit by 11:59 PM Central) |
+| **Discord** | Game Jam channel **coming soon** |
+| **Prizes** | No cash prizes — proof of work & recognition |
 
-**Status:** Planned Summer 2026 · Final dates and locations pending · Registration coming soon
+---
+
+## Start here
+
+1. **[Join the jam on itch.io](https://itch.io/jam/lake-county-phone-first-game-jam)**  
+2. [README for nontechnical visitors](README-for-nontechnical-visitors.md)  
+3. [What is a Game Jam?](what-is-a-game-jam.md)  
+4. [Phone-First Toolkit](phone-first-game-dev-toolkit.md)  
+5. [Submission Guide](submission-guide.md)  
+
+---
 
 ## Guides
 
 | Guide | Audience |
 |-------|----------|
-| [README for nontechnical visitors](README-for-nontechnical-visitors.md) | Families, sponsors, first-time visitors |
-| [What is a Game Jam?](what-is-a-game-jam.md) | Beginners |
-| [Participant Outcomes](participant-outcomes.md) | Zero-to-hero transformation, proof of work, portfolio ladder |
-| [Phone-First Game Dev Toolkit](phone-first-game-dev-toolkit.md) | Phone-only participants |
-| [Friday Office Hours](friday-office-hours.md) | Anyone considering in-person support |
-| [Community Build Hubs](community-build-hubs.md) | Organizers, library/community outreach |
-| [Submission Guide](submission-guide.md) | Teams submitting games |
-| [Sample Submissions](sample-submissions.md) | Inspiration and examples |
-| [Theme and Constraints](theme-and-constraints.md) | Kickoff day reference |
-| [Judging and Awards](judging-and-awards.md) | Participants and judges |
+| [Rules](rules.md) | Everyone — matches itch.io |
+| [FAQ](faq.md) | Quick answers |
+| [Participant Outcomes](participant-outcomes.md) | Zero-to-hero, portfolio ladder |
+| [Proof of Work Packet](proof-of-work-packet.md) | What to hand in / document |
+| [Submission Guide](submission-guide.md) | itch.io how-to |
+| [Discord Guide](discord-guide.md) | Community channels (invite coming soon) |
+| [Office Hours](office-hours.md) | Friday virtual sessions |
+| [Friday Office Hours (legacy file)](friday-office-hours.md) | Redirects to office-hours.md |
+| [Judging and Awards](judging-and-awards.md) | Criteria, no cash prizes |
 | [Parents and Guardians](parents-and-guardians.md) | Families |
+| [AI Use Policy](ai-use-policy.md) | AI as helper |
+| [Asset Licensing](asset-licensing.md) | Credits and legal use |
+| [Portfolio Readiness](portfolio-readiness.md) | After the jam |
+| [Theme and Constraints](theme-and-constraints.md) | Theme reveal June 5 |
+| [Sample Submissions](sample-submissions.md) | Examples |
+| [Community Build Hubs](community-build-hubs.md) | Optional in-person candidates |
 | [Accessibility and Inclusion](accessibility-and-inclusion.md) | Everyone |
-| [Rules Draft](rules-draft.md) | Planned rules (not final) |
 
-## Public site
+---
 
-GitHub Pages site: [`/docs/index.html`](../docs/index.html)
+## Public website
+
+GitHub Pages: [`/docs/index.html`](../docs/index.html)  
+Enable: repo **Settings → Pages → `/docs` on `main`**
+
+---
 
 ## Disclaimers
 
-- Office hour locations are **candidates**, not confirmed partners  
-- Theme and constraints are revealed at **kickoff** — not chosen in this repo yet  
-- Registration and submission platform are **coming soon**
+- **No cash prizes** for this launch edition  
+- **Discord invite** not posted yet  
+- **In-person office hubs** are candidates, not confirmed partners  
+- **Theme** revealed **June 5, 2026** on jam open  

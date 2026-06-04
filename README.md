@@ -1,24 +1,14 @@
 # gunnchOS3k MLV Game Jam
 
-**Public landing page and knowledge base** for the planned **Summer 2026** **Lake County Phone-First Game Jam** (NWI Summer Game Jam).
+**Lake County Phone-First Game Jam** — public knowledge base and participant guide for the Summer 2026 jam hosted by **gunnchOS3k MLV**.
 
 > You do not have to be in Silicon Valley, NYC, a university lab, or a big tech company to make games. You can be from Northwest Indiana, you can be yourself, and you can build from the device you already have.
 
 > You do not have to be "fill in the blank" to belong here. You can be yourself.
 
-This repository is **standalone** — the official public home for the **Game Jam only**. It is not the Hackathons repo and not part of any other project folder.
+**Official jam (join & submit):** [https://itch.io/jam/lake-county-phone-first-game-jam](https://itch.io/jam/lake-county-phone-first-game-jam)
 
----
-
-## What is this event?
-
-A **longer, virtual-first** game development challenge:
-
-- **Phone-first** — no laptop required  
-- **Virtual-first** — build from home, school, library, or community WiFi  
-- **Optional Friday office hours** at rotating Northwest Indiana candidate hubs (pending)  
-- **Theme and constraints revealed at kickoff**  
-- **Beginner-friendly** paths: GDevelop, Replit, Slides, paper prototypes, demo videos  
+This repository is **standalone** — not the Hackathons repo. It is the toolkit, rules, Discord guide, and portfolio-readiness hub. **itch.io** is where you register and submit.
 
 ---
 
@@ -26,23 +16,45 @@ A **longer, virtual-first** game development challenge:
 
 | Item | Status |
 |------|--------|
-| Event | **Planned** Summer 2026 |
-| Registration | **Not open** — coming soon |
-| Submission platform | **Pending** (itch.io / Devpost / hybrid TBD) |
-| Friday office hours | **Candidate locations** being explored — not confirmed |
-| Theme | **Revealed at kickoff** — not chosen in this repo |
-| Proposed kickoff | Monday morning, **June 15, 2026** (may shift) |
-| Proposed deadline | **July 27, 2026** (may shift) |
+| **Event** | Lake County Phone-First Game Jam |
+| **Status** | **Live on itch.io** |
+| **Registration / submission** | [itch.io/jam/lake-county-phone-first-game-jam](https://itch.io/jam/lake-county-phone-first-game-jam) |
+| **Jam opens** | Friday, **June 5, 2026** (theme revealed) |
+| **Submissions close** | Saturday, **July 11, 2026** at **11:59 PM Central** |
+| **Judging** | **July 12–17, 2026** |
+| **Prizes** | **No cash prizes** — bragging rights, recognition, portfolio proof |
+| **Discord** | Game Jam channel **coming soon** |
+| **Office hours** | Friday **virtual-first** sessions (optional) |
+| **GitHub Pages** | Knowledge base at `/docs` |
+
+---
+
+## Two questions this site answers
+
+1. **How do I participate?** → Join on itch.io, use phone-first tools, optional Discord when live.  
+2. **How do I leave with proof of work?** → Proof of Work Packet, demo, documentation, portfolio artifacts.
 
 ---
 
 ## Live site (GitHub Pages)
 
-After enabling Pages:
-
 **`https://gunnchOS3k.github.io/gunnchOS3k-MLV-GameJam/`**
 
-**Settings → Pages → Deploy from branch `main` → `/docs` folder**
+Enable: **Settings → Pages → branch `main` → folder `/docs`**
+
+---
+
+## Preview locally
+
+```bash
+open docs/index.html
+```
+
+Or:
+
+```bash
+cd docs && python3 -m http.server 8080
+```
 
 ---
 
@@ -50,86 +62,59 @@ After enabling Pages:
 
 ```
 gunnchOS3k-MLV-GameJam/
-├── docs/                 # Static website (GitHub Pages)
+├── docs/                 # GitHub Pages site
 │   ├── index.html
 │   ├── styles.css
 │   ├── script.js
 │   └── assets/
-├── resources/            # Knowledge base (markdown)
+├── resources/            # Knowledge base
 │   ├── README.md
-│   ├── README-for-nontechnical-visitors.md
-│   ├── what-is-a-game-jam.md
-│   ├── participant-outcomes.md
-│   ├── phone-first-game-dev-toolkit.md
-│   ├── friday-office-hours.md
+│   ├── rules.md
+│   ├── faq.md
 │   ├── submission-guide.md
-│   ├── sample-submissions.md
-│   ├── judging-and-awards.md
-│   ├── parents-and-guardians.md
-│   ├── accessibility-and-inclusion.md
-│   ├── community-build-hubs.md
-│   ├── theme-and-constraints.md
-│   └── rules-draft.md
+│   ├── proof-of-work-packet.md
+│   ├── discord-guide.md
+│   ├── office-hours.md
+│   ├── participant-outcomes.md
+│   ├── portfolio-readiness.md
+│   └── …
 └── README.md
 ```
 
 ---
 
-## Preview locally
+## Knowledge base — start here
 
-No install required:
-
-```bash
-open docs/index.html
-```
-
-Optional local server:
-
-```bash
-cd docs && python3 -m http.server 8080
-# http://localhost:8080
-```
-
----
-
-## Knowledge base
-
-Start here: [resources/README.md](resources/README.md)  
-For families: [resources/README-for-nontechnical-visitors.md](resources/README-for-nontechnical-visitors.md)  
-Participant outcomes: [resources/participant-outcomes.md](resources/participant-outcomes.md) — zero-to-hero build sprint, proof of work, portfolio ladder
-
----
-
-## How to contribute
-
-1. Fork the repo  
-2. Edit `docs/` or `resources/`  
-3. Keep language accurate: **planned**, **pending**, **proposed** — do not claim confirmed venues, open registration, or guaranteed prizes  
-4. Open a pull request  
-
-Volunteers and sponsors: see site sections for planned roles; interest forms coming with registration.
+| Guide | Link |
+|-------|------|
+| Index | [resources/README.md](resources/README.md) |
+| For families | [resources/README-for-nontechnical-visitors.md](resources/README-for-nontechnical-visitors.md) |
+| Rules | [resources/rules.md](resources/rules.md) |
+| FAQ | [resources/faq.md](resources/faq.md) |
+| Join & submit | [resources/submission-guide.md](resources/submission-guide.md) |
+| Proof of Work | [resources/proof-of-work-packet.md](resources/proof-of-work-packet.md) |
+| Discord | [resources/discord-guide.md](resources/discord-guide.md) |
+| Participant outcomes | [resources/participant-outcomes.md](resources/participant-outcomes.md) |
 
 ---
 
 ## Disclaimers
 
-- **Official registration is not open yet**  
-- **Office hour locations are pending** — candidates are not confirmed partners  
-- **Theme and constraints** will be revealed at kickoff  
-- Prizes, food, and transportation support are **planned** where mentioned — **not guaranteed** until sponsors and policies are finalized  
-- Minors: **planned** participation with guardian consent and safety rules before registration  
+- **No cash prizes** for this launch edition  
+- **Discord invite** not posted yet — check itch.io and this repo for updates  
+- **In-person hubs** are candidates only — not confirmed library partners  
+- **Theme** revealed **June 5, 2026** when the jam opens  
+- Outcomes describe skills you can earn — **not** guaranteed jobs or scholarships  
 
 ---
 
 ## Reference links
 
-- [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)  
+- [Official itch.io jam](https://itch.io/jam/lake-county-phone-first-game-jam)  
 - [itch.io Game Jams](https://itch.io/jams)  
-- [GitHub Game Off 2025](https://itch.io/jam/game-off-2025)  
 - [GDevelop](https://gdevelop.io/)  
 - [Replit Mobile](https://docs.replit.com/platforms/mobile-app)  
-- [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)  
-- [DigitalOcean Devpost example](https://digitalocean.devpost.com/)  
+- [GitHub Pages docs](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)  
 
 ---
 

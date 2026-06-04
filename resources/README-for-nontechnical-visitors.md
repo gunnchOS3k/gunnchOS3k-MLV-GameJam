@@ -1,39 +1,58 @@
-# Welcome — gunnchOS3k MLV Game Jam
+# Welcome — Lake County Phone-First Game Jam
 
-**For students, parents, sponsors, and community members who want a simple overview.**
+**For students, parents, sponsors, and community members.**
+
+---
 
 ## What is this?
 
-A **planned Summer 2026** game-making challenge for **Northwest Indiana**. You make a small game (or game-like project) over several weeks, mostly **from home on your phone or computer**. Optional **Friday meetups** may happen at libraries or community spaces — but you do **not** have to attend them.
+A **beginner-friendly summer game jam** for Northwest Indiana. You make a small game or game-like project over several weeks — mostly **from home**, on a **phone or any device**.
 
-## The big idea
+**Join here (official):** [itch.io/jam/lake-county-phone-first-game-jam](https://itch.io/jam/lake-county-phone-first-game-jam)
 
-> You do not have to be in Silicon Valley, NYC, a university lab, or a big tech company to make games. You can be from Northwest Indiana, you can be yourself, and you can build from the device you already have.
+This GitHub site is the **guidebook**. itch.io is where you **sign up and submit**.
 
-> You do not have to be "fill in the blank" to belong here. You can be yourself.
+---
 
-## Do I need a laptop?
+## Key dates
 
-**No.** A phone is enough for many types of projects.
+| When | What |
+|------|------|
+| **June 5, 2026** | Jam opens — **theme revealed** |
+| **July 11, 2026, 11:59 PM Central** | Submissions close |
+| **July 12–17, 2026** | Judging |
+| After judging | Winners / showcase online |
 
-## Do I need to know coding?
+---
 
-**No.** Stories, slide games, paper prototypes, and beginner-friendly tools count.
+## Do I need a laptop? Coding?
 
-## Is registration open?
+**No** to both for getting started. Many projects use slides, paper prototypes, phone video demos, or beginner-friendly tools.
 
-**Not yet.** Check the [public site](../docs/index.html) for updates.
+---
 
-## When does it start?
+## Are there cash prizes?
 
-**Proposed** kickoff: Monday morning, **June 15, 2026**, with theme reveal — after a proposed community launch on **Saturday, June 13, 2026** if that event is secured. **Dates may change.**
+**No cash prizes** for this first edition. The value is learning, finishing something, public recognition, and **portfolio proof** you can show later.
 
-## Where do I learn more?
+---
 
-- [What is a Game Jam?](what-is-a-game-jam.md)  
-- [Parents and Guardians](parents-and-guardians.md)  
+## Discord
+
+The organizer will use Discord for help and Friday office hours. **Channel invite: coming soon.** Official rules and submissions stay on **itch.io**.
+
+---
+
+## For parents
+
+- Virtual-first — optional Friday online help  
+- No private one-on-one adult/minor mentoring online  
+- See [Parents and Guardians](parents-and-guardians.md)  
+
+---
+
+## Learn more
+
+- [FAQ](faq.md)  
 - [Phone-First Toolkit](phone-first-game-dev-toolkit.md)  
-
-## Questions?
-
-Read the FAQ on the [website](../docs/index.html#faq) or open an issue on GitHub.
+- [Public website](../docs/index.html)  

@@ -1,62 +1,76 @@
 # Judging and Awards
 
-**Planned categories — prize details depend on sponsors (not guaranteed until finalized)**
-
-## Judging philosophy
-
-Reward **completion, creativity, learning, accessibility, and storytelling** — not only advanced code.
-
-Phone-first and beginner paths should be able to win meaningful recognition.
+**Official jam:** [itch.io/jam/lake-county-phone-first-game-jam](https://itch.io/jam/lake-county-phone-first-game-jam)
 
 ---
 
-## Judging categories
+## Prize model
 
-| Category | What judges look for |
-|----------|----------------------|
-| Theme interpretation | Clear connection to kickoff theme |
-| Gameplay / interaction | Fun, clarity, controls |
-| Creativity | Original ideas and surprises |
-| Community connection | Northwest Indiana or local relevance |
-| Phone-first accessibility | Works on phone or low-bandwidth path |
-| Clarity of instructions | Someone new can understand how to play |
-| Learning journey | Growth, especially for beginners |
-| Presentation | Art, audio, story cohesion |
-| Technical implementation | Solid build for the tools used |
-| Fun factor | Would someone play it again? |
+**No cash prizes** for this launch edition.
+
+This is a **bragging-rights, learning, portfolio, and community recognition** jam. The value is finishing, documenting, publishing, and proving you can build.
 
 ---
 
-## Planned award categories
+## Judging period
+
+**July 12–17, 2026** — judging, review, and showcase prep  
+**Winners/showcase:** announced after judging concludes  
+
+Judging is managed by the host/judge team through itch.io and internal review.
+
+---
+
+## Judging criteria
+
+| Criterion | What judges look for |
+|-----------|----------------------|
+| **Theme interpretation** | Clear connection to the official theme |
+| **Gameplay / interaction** | Fun, clarity, controls |
+| **Creativity** | Original ideas |
+| **Phone-first accessibility** | Works on phone or low-bandwidth path |
+| **Proof of work** | Documentation, demo, clarity of effort |
+| **Community connection** | Northwest Indiana or local relevance where present |
+
+---
+
+## Recognition categories (bragging rights)
 
 - Best Overall  
-- Best Beginner Game  
-- Best Phone-First Game  
+- Best Beginner Build  
+- Best Phone-First Project  
 - Best Northwest Indiana Story  
-- Best Community Impact  
-- Best Use of AI as a Helper  
 - Best Interactive Story  
 - Best Paper Prototype  
 - Best Browser Game  
-- Best Art Direction  
-- Best Sound or Music  
+- Best Use of AI as a Helper  
 - Best Demo Video  
-- People's Choice  
 - Most Likely to Keep Going  
 
----
-
-## For judges (draft)
-
-- Watch the demo video first  
-- Read instructions before deep code review  
-- Ask: “Could a beginner understand this?”  
-- Do not penalize low-poly art if the game is clear and fun  
+*Categories may be adjusted by organizers. No cash awards.*
 
 ---
 
-## Timeline (proposed)
+## Philosophy
 
-- **July 27, 2026:** Submissions due  
-- **July 28–30, 2026:** Judging and playtesting  
-- **July 31, 2026:** Winners and online showcase  
+Reward **completion, creativity, learning, accessibility, and storytelling** — not only advanced code.
+
+Phone-first and beginner paths can earn meaningful recognition.
+
+---
+
+## For judges
+
+- Watch the demo first  
+- Read instructions before deep technical review  
+- Do not penalize simple art if the game is clear and fun  
+
+---
+
+## Timeline
+
+| Date | Milestone |
+|------|-----------|
+| July 11, 2026, 11:59 PM Central | Submissions close |
+| July 12–17, 2026 | Judging and review |
+| After July 17 | Winners and showcase announcement |
