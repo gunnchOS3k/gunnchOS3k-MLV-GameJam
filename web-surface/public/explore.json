@@ -1,0 +1,126 @@
+{
+  "schema": "gunnchos.surfacekit.v2",
+  "measured_topology": false,
+  "diagram_note": "Reading aid built from repository headings. It is not a measured topology and it is not a live system.",
+  "nodes": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "current-status",
+      "label": "Current status"
+    },
+    {
+      "id": "two-questions-this-site-answers",
+      "label": "Two questions this site answers"
+    },
+    {
+      "id": "live-site-github-pages",
+      "label": "Live site (GitHub Pages)"
+    }
+  ],
+  "rows": [
+    {
+      "source": "README.md",
+      "scenario_id": "Overview",
+      "site_id": "3k MLV",
+      "ethical_framing": "# gunnchOS3k MLV Game Jam **Lake County Phone-First Game Jam** \u2014 public knowledge base and participant guide for the Summer 2026 jam hosted by **gunnchOS3k MLV**. > You do not have to be in Silicon Valley, NYC, a university lab, or a big tech company to make games. You can be from Northwest Indiana, you can be yourself, and you can build from the device you already have. > You do not have to be \"fill in the blank\" to"
+    },
+    {
+      "source": "README.md",
+      "scenario_id": "Current status",
+      "site_id": "3k MLV",
+      "ethical_framing": "---"
+    },
+    {
+      "source": "README.md",
+      "scenario_id": "Two questions this site answers",
+      "site_id": "3k MLV",
+      "ethical_framing": "1. **How do I participate?** \u2192 Join on itch.io, use phone-first tools, optional Discord when live. 2. **How do I leave with proof of work?** \u2192 Proof of Work Packet, demo, documentation, portfolio artifacts. ---"
+    },
+    {
+      "source": "README.md",
+      "scenario_id": "Live site (GitHub Pages)",
+      "site_id": "3k MLV",
+      "ethical_framing": "**`https://gunnchOS3k.github.io/gunnchOS3k-MLV-GameJam/`** Enable: **Settings \u2192 Pages \u2192 branch `main` \u2192 folder `/docs`** ---"
+    },
+    {
+      "source": "README.md",
+      "scenario_id": "Preview locally",
+      "site_id": "3k MLV",
+      "ethical_framing": "open docs/index.html Or: cd docs && python3 -m http.server 8080 ---"
+    },
+    {
+      "source": "README.md",
+      "scenario_id": "Repository structure",
+      "site_id": "3k MLV",
+      "ethical_framing": "gunnchOS3k-MLV-GameJam/ \u251c\u2500\u2500 docs/ # GitHub Pages site \u2502 \u251c\u2500\u2500 index.html \u2502 \u251c\u2500\u2500 styles.css \u2502 \u251c\u2500\u2500 script.js \u2502 \u2514\u2500\u2500 assets/ \u251c\u2500\u2500 resources/ # Knowledge base \u2502 \u251c\u2500\u2500 README.md \u2502 \u251c\u2500\u2500 rules.md \u2502 \u251c\u2500\u2500 faq.md \u2502 \u251c\u2500\u2500 submission-guide.md \u2502 \u251c\u2500\u2500 proof-of-work-packet.md \u2502 \u251c\u2500\u2500 discord-guide.md \u2502 \u251c\u2500\u2500 office-hours.md \u2502 \u251c\u2500\u2500 participant-outcomes.md \u2502 \u251c\u2500\u2500 portfolio-readiness.md \u2502 \u2514\u2500\u2500 \u2026 \u2514\u2500\u2500 README.md ---"
+    }
+  ],
+  "sources": [],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "body": "# gunnchOS3k MLV Game Jam **Lake County Phone-First Game Jam** \u2014 public knowledge base and participant guide for the Summer 2026 jam hosted by **gunnchOS3k MLV**. > You do not have to be in Silicon Valley, NYC, a university lab, or a big tech company to make games. You can be from Northwest Indiana, you can be yourself, and you can build from the device you already have. > You do not have to be \"fill in the blank\" to"
+    },
+    {
+      "id": "current-status",
+      "title": "Current status",
+      "body": "---"
+    },
+    {
+      "id": "two-questions-this-site-answers",
+      "title": "Two questions this site answers",
+      "body": "1. **How do I participate?** \u2192 Join on itch.io, use phone-first tools, optional Discord when live. 2. **How do I leave with proof of work?** \u2192 Proof of Work Packet, demo, documentation, portfolio artifacts. ---"
+    },
+    {
+      "id": "live-site-github-pages",
+      "title": "Live site (GitHub Pages)",
+      "body": "**`https://gunnchOS3k.github.io/gunnchOS3k-MLV-GameJam/`** Enable: **Settings \u2192 Pages \u2192 branch `main` \u2192 folder `/docs`** ---"
+    },
+    {
+      "id": "preview-locally",
+      "title": "Preview locally",
+      "body": "open docs/index.html Or: cd docs && python3 -m http.server 8080 ---"
+    },
+    {
+      "id": "repository-structure",
+      "title": "Repository structure",
+      "body": "gunnchOS3k-MLV-GameJam/ \u251c\u2500\u2500 docs/ # GitHub Pages site \u2502 \u251c\u2500\u2500 index.html \u2502 \u251c\u2500\u2500 styles.css \u2502 \u251c\u2500\u2500 script.js \u2502 \u2514\u2500\u2500 assets/ \u251c\u2500\u2500 resources/ # Knowledge base \u2502 \u251c\u2500\u2500 README.md \u2502 \u251c\u2500\u2500 rules.md \u2502 \u251c\u2500\u2500 faq.md \u2502 \u251c\u2500\u2500 submission-guide.md \u2502 \u251c\u2500\u2500 proof-of-work-packet.md \u2502 \u251c\u2500\u2500 discord-guide.md \u2502 \u251c\u2500\u2500 office-hours.md \u2502 \u251c\u2500\u2500 participant-outcomes.md \u2502 \u251c\u2500\u2500 portfolio-readiness.md \u2502 \u2514\u2500\u2500 \u2026 \u2514\u2500\u2500 README.md ---"
+    }
+  ],
+  "artifacts": [
+    "docs/assets/logo.svg"
+  ],
+  "methods": "",
+  "cards": [
+    {
+      "title": "Overview",
+      "body": "# gunnchOS3k MLV Game Jam **Lake County Phone-First Game Jam** \u2014 public knowledge base and participant guide for the Summer 2026 jam hosted by **gunnchOS3k MLV**. > You do not have to be in Silicon Valley, NYC, a university lab, or a big tech company to make games. You can be from Northwest Indiana, you can be yourself, and you can build from the device you already have. > You do not have to be \"fill in the blank\" to"
+    },
+    {
+      "title": "Current status",
+      "body": "---"
+    },
+    {
+      "title": "Two questions this site answers",
+      "body": "1. **How do I participate?** \u2192 Join on itch.io, use phone-first tools, optional Discord when live. 2. **How do I leave with proof of work?** \u2192 Proof of Work Packet, demo, documentation, portfolio artifacts. ---"
+    },
+    {
+      "title": "Live site (GitHub Pages)",
+      "body": "**`https://gunnchOS3k.github.io/gunnchOS3k-MLV-GameJam/`** Enable: **Settings \u2192 Pages \u2192 branch `main` \u2192 folder `/docs`** ---"
+    },
+    {
+      "title": "Preview locally",
+      "body": "open docs/index.html Or: cd docs && python3 -m http.server 8080 ---"
+    },
+    {
+      "title": "Repository structure",
+      "body": "gunnchOS3k-MLV-GameJam/ \u251c\u2500\u2500 docs/ # GitHub Pages site \u2502 \u251c\u2500\u2500 index.html \u2502 \u251c\u2500\u2500 styles.css \u2502 \u251c\u2500\u2500 script.js \u2502 \u2514\u2500\u2500 assets/ \u251c\u2500\u2500 resources/ # Knowledge base \u2502 \u251c\u2500\u2500 README.md \u2502 \u251c\u2500\u2500 rules.md \u2502 \u251c\u2500\u2500 faq.md \u2502 \u251c\u2500\u2500 submission-guide.md \u2502 \u251c\u2500\u2500 proof-of-work-packet.md \u2502 \u251c\u2500\u2500 discord-guide.md \u2502 \u251c\u2500\u2500 office-hours.md \u2502 \u251c\u2500\u2500 participant-outcomes.md \u2502 \u251c\u2500\u2500 portfolio-readiness.md \u2502 \u2514\u2500\u2500 \u2026 \u2514\u2500\u2500 README.md ---"
+    }
+  ],
+  "runtime_mode": "PRECOMPUTED",
+  "runtime_boot": false
+}

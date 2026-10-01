@@ -1,0 +1,20 @@
+{
+  "repo": "gunnchOS3k-MLV-GameJam",
+  "productName": "MLV game jam",
+  "family": "3k MLV",
+  "classification": "META_DIRECTORY_WORKER",
+  "acceptedSha": "8b2e0346b3686818a866b3d2fb12a7ba442a3ba0",
+  "status": "STAGING_WORKER",
+  "summary": "Directory for a summer game jam presented by gunnchOS3k MLV.",
+  "capabilities": [
+    "Read the jam repository scope",
+    "Open the source repository"
+  ],
+  "limitations": [
+    "This page is not the jam client and does not submit games"
+  ],
+  "sourceUrl": "https://github.com/gunnchOS3k/gunnchOS3k-MLV-GameJam",
+  "returnUrlEnv": "GUNNCHOS_PORTAL_URL",
+  "returnUrl": "https://gunnchos-site.gunnchos-finds.workers.dev",
+  "workerName": "gunnchos-mlv-gamejam"
+}
